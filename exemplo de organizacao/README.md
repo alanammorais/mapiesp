@@ -10,21 +10,30 @@
 Zezinho
 
 
-### Padrão Comportamental: XXXX
+### Padrão Comportamental: 
+XXXX
 
 
 ## Padrão XXX
 
-### Problema: XXXX
+### Problema: 
+
+XXXX
 
 
-### Solução: XXXX
+### Solução: 
+
+XXXX
 
 
-### Consequências: XXXX
+### Consequências: 
+
+XXXX
 
 
-### Exemplo: XXXX
+### Exemplo: 
+
+XXXX
 
 
 
