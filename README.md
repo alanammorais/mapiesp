@@ -9,7 +9,7 @@
 ### Horários / Local
 
 * Horários:
-  - **Segundas (19.00 - 22.00)** - Lab 04
+  - **Segundas (19.00 - 22.00)** - Virtual
 
 ## Comunicação
 
