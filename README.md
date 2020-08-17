@@ -24,11 +24,8 @@ Enviar via Google Classroom
 
 A nota final será computado através da média das avaliações:
 
-* Avaliação I (Prova Escrita 1)
-* Avaliação II (Projeto + Prova Escrita 2)
+* Avaliação I 
+* Avaliação II 
 
 * Reposição
 * Final
-
-
-
