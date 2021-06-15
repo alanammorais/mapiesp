@@ -1,6 +1,6 @@
 # Métodos Avançados de Programação
 
-## Iesp Faculdades
+## Centro Universitário Uniesp
 
 ### Professora
 
